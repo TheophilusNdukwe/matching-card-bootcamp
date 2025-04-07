@@ -1,6 +1,6 @@
 # ♠️ Week08 Bootcamp2019a Project: Matching Card Game
 
-# ✨ Features: Interactive card matching gameplay
+## ✨ Features: Interactive card matching gameplay
 
 ### Clean, responsive design that works on desktop and mobile
 
