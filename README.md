@@ -2,13 +2,13 @@
 
 # ✨ Features: Interactive memory card matching gameplay
 
-## Clean, responsive design that works on desktop and mobile
+### Clean, responsive design that works on desktop and mobile
 
-## Simple animations for card flipping
+### Simple animations for card flipping
 
-## Score tracking and game completion detection
+### Score tracking and game completion detection
 
-## Randomized card placement for replayability
+### Randomized card placement for replayability
 
 # 🎮 How to Play
 
