@@ -1,33 +1,33 @@
 # ♠️ Week08 Bootcamp2019a Project: Matching Card Game
 
-### ✨ Features: Interactive memory card matching gameplay
+# ✨ Features: Interactive memory card matching gameplay
 
-# Clean, responsive design that works on desktop and mobile
+## Clean, responsive design that works on desktop and mobile
 
-# Simple animations for card flipping
+## Simple animations for card flipping
 
-# Score tracking and game completion detection
+## Score tracking and game completion detection
 
-# Randomized card placement for replayability
+## Randomized card placement for replayability
 
-### 🎮 How to Play
+# 🎮 How to Play
 
-# 1. Click on any card to flip it over
+### 1. Click on any card to flip it over
 
-# 2. Click on a second card to see if you've found a match
+### 2. Click on a second card to see if you've found a match
 
-# 3. If the cards match, they'll stay face up
+### 3. If the cards match, they'll stay face up
 
-# 4. If they don't match, they'll flip back over
+### 4. If they don't match, they'll flip back over
 
-# 5. Use your memory to remember where cards are located
+### 5. Use your memory to remember where cards are located
 
-# 6. The game is complete when all cards are matched and face up
+### 6. The game is complete when all cards are matched and face up
 
-### 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-# HTML5 / CSS3
+### HTML5 / CSS3
 
-# JavaScript (ES6+)
+### JavaScript (ES6+)
 
-# Responsive design principles
+### Responsive design principles
