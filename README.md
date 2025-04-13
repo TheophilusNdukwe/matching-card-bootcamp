@@ -1,5 +1,7 @@
 # ♠️ Week08 Bootcamp2019a Project: Matching Card Game
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/695529a5-1caa-4e98-9d13-59da76fba453/deploy-status)](https://app.netlify.com/sites/simplecardmatchgame/deploys)
+
 ## ✨ Features: Interactive card matching gameplay
 
 ### Clean, responsive design that works on desktop and mobile
