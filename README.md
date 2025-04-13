@@ -1,6 +1,6 @@
 # ♠️ Week08 Bootcamp2019a Project: Matching Card Game
 
-CLICK HERE TO PLAY !! https://simplecardmatchgame.netlify.app/
+CLICK HERE TO PLAY!! --> https://simplecardmatchgame.netlify.app/
 
 ## ✨ Features: Interactive card matching gameplay
 
